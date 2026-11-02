@@ -5,6 +5,8 @@ def main():
     no = 2
     print(hello, hi, no)
 
+    x = 1 + 2
+    print(x)
 
 
 if __name__ == "__main__":
